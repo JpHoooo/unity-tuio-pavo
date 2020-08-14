@@ -1,9 +1,9 @@
 # unity通过TUIO协议连接星秒雷达pavo
 ***
 ## 1.产品样式  
-### 非工作状态  
+### 非工作状态(指示灯不亮)  
 ![siminics](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-pavo/siminics.jpg)
-### 工作状态  
+### 工作状态(两个指示灯全亮)
 ![working](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-pavo/working.jpg)
 ***
 ## 2.安装PavoView
@@ -26,7 +26,7 @@
 ## 5.运行unity
 ### 一切都按照docx文档配置好后，接下来开始TUIO输出，然后打开unity工程文件
 ### 运行结果应当如下  
-![handMove](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-pavo/handMove.gif)
+![handMove](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-pavo/handMove.gif)  
 ![pointMove](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-pavo/pointMove.gif)
 
 
